@@ -1,0 +1,3 @@
+D:\pylib\pyinstaller-develop>python pyinstaller.py -F -D -c D:\PyProjects\webtest\main.py
+
+D:\pylib\pyinstaller-develop>python pyinstaller.py -F -D -c D:\PyProjects\webtest\soketService.py
